@@ -1,4 +1,6 @@
-  👋 Hi, I’m prashant 
+  
+  <img src="https://user-images.githubusercontent.com/65275009/111066854-2ea7e900-84e7-11eb-8210-53150438ea0c.gif" width="40" height="40" />  Hi, I’m prashant 
+    
   
 - 👀 I am currently pursuing b.tech Computer science. I am 3rd year student.
     My skills are Android Development, JAVA, Data Structure C, C++, HTML/CSS and Python.
