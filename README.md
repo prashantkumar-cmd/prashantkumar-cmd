@@ -6,7 +6,7 @@
     
 - 👯 I’m looking to collaborate on an random interested project for android apps
 
-  💬 Languages: JAVA, C++, HTML/CSS.
+- 💬 Languages: JAVA, C++, HTML/CSS.
 - 📫 How to reach me ...
 
   Email : prashantkumarjnv6@gmail.com
