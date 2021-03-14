@@ -1,5 +1,5 @@
   
-  <img src="https://user-images.githubusercontent.com/65275009/111066854-2ea7e900-84e7-11eb-8210-53150438ea0c.gif" width="40" height="40" />  Hi, I’m prashant 
+  <img src="https://user-images.githubusercontent.com/65275009/111066854-2ea7e900-84e7-11eb-8210-53150438ea0c.gif" width="40" height="40" />  Hi ! I’m prashant 
   
 - <img src="https://user-images.githubusercontent.com/65275009/111067239-67e15880-84e9-11eb-803d-998d0e4b2d49.gif" width="40" height="40" /> I am currently pursuing b.tech Computer science. I am 3rd year student.
     My skills are Android Development <img src="https://user-images.githubusercontent.com/65275009/111067237-64e66800-84e9-11eb-93da-c9d8d3338178.gif" width="40" height="40" />, JAVA, Data Structure C, C++, HTML/CSS and Python.
