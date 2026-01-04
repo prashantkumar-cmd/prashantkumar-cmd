@@ -6,7 +6,7 @@ of freelance full-stack development using Java + Angular. Adept at designing and
 scalable microservices, integrating RESTful APIs, and working with cloud-native
 architectures (Azure & AWS). Skilled in migrating legacy systems, optimizing backend logic,
 and delivering production-ready solutions following Agile and DevOps practices. Known for
-strong problem-solving, reusable component creation, and a passion for continuous learning. <img src="https://user-images.githubusercontent.com/65275009/111067237-64e66800-84e9-11eb-93da-c9d8d3338178.gif" width="40" height="40" />, JAVA, MySQL, Spring Boot, Microservices.
+strong problem-solving, reusable component creation, and a passion for continuous learning.
     
 - 📫 How to reach me ...
 
