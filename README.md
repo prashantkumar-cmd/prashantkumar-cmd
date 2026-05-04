@@ -8,7 +8,7 @@ architectures (Azure & AWS). Skilled in migrating legacy systems, optimizing bac
 and delivering production-ready solutions following Agile and DevOps practices. Known for
 strong problem-solving, reusable component creation, and a passion for continuous learning.
     
-- 📫 How to reach me ...
+- 📫 How to reach me ....
 
   Email: prashantkumarjnv6@gmail.com
   
