@@ -4,7 +4,12 @@
 - <img src="https://user-images.githubusercontent.com/65275009/111067239-67e15880-84e9-11eb-803d-998d0e4b2d49.gif" width="40" height="40" />Results-driven Java Backend Developer with 4 Years 7 Months of experience architecting high-throughput distributed
 microservices at enterprise scale. Deep expertise in Spring Boot, RESTful APIs, OAuth2, and Azure. Proven track
 record owning the full SDLC for mission-critical logistics platforms serving millions of transactions..
-    
+-Led OAuth2 authentication implementation and migrated monolithic legacy systems to distributed microservices, improving
+scalability and deployment velocity.
+– Designed and delivered Spring Boot microservices for high-traffic logistics applications: Billing, Warehouse Management, Freight
+lanes, Delivery, and Capacity Planning.
+– Owned full SDLC– API design, implementation, and CI/CD deployment (Jenkins/Azure DevOps)– with independent
+production support and defect resolution.– Improved data retrieval performance by 30%, enabling real-time order tracking.   
 - 📫 How to reach me ....
 
   Email: prashantkumarjnv6@gmail.com
