@@ -12,7 +12,9 @@ scalability and deployment velocity.
 lanes, Delivery, and Capacity Planning.
 
 – Owned full SDLC– API design, implementation, and CI/CD deployment (Jenkins/Azure DevOps)– with independent
-production support and defect resolution.– Improved data retrieval performance by 30%, enabling real-time order tracking. 
+production support and defect resolution.
+
+– Improved data retrieval performance by 30%, enabling real-time order tracking. 
 - 📫 How to reach me ....
 
   Email: prashantkumarjnv6@gmail.com
