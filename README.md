@@ -7,8 +7,10 @@ record owning the full SDLC for mission-critical logistics platforms serving mil
 
 -Led OAuth2 authentication implementation and migrated monolithic legacy systems to distributed microservices, improving
 scalability and deployment velocity.
+
 – Designed and delivered Spring Boot microservices for high-traffic logistics applications: Billing, Warehouse Management, Freight
 lanes, Delivery, and Capacity Planning.
+
 – Owned full SDLC– API design, implementation, and CI/CD deployment (Jenkins/Azure DevOps)– with independent
 production support and defect resolution.– Improved data retrieval performance by 30%, enabling real-time order tracking. 
 - 📫 How to reach me ....
